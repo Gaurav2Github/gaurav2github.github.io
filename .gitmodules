@@ -1,3 +1,3 @@
 [submodule "protractor-demo"]
-	path = protractor-demo/app
+	path = protractor-demo
 	url = https://github.com/Gaurav2Github/protractor-demo.git
