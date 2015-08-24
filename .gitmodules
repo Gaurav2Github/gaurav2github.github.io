@@ -1,3 +1,6 @@
 [submodule "protractor-demo"]
 	path = protractor-demo
 	url = https://github.com/Gaurav2Github/protractor-demo.git
+[submodule "protractor"]
+	path = protractor
+	url = https://github.com/Gaurav2Github/protractor.git
